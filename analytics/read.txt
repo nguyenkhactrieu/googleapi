@@ -1,0 +1,2 @@
+https://github.com/spatie/laravel-analytics
+https://onewaycode.wordpress.com/2017/06/18/how-to-embed-google-analytics-api-using-php-without-users-having-to-sign-in/
